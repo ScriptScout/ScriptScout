@@ -2,7 +2,7 @@
 - 👀 I’m interested in Videogame Develop
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Open Source Project
-- 📫 How to reach me on Github
+- 📫 How to reach me on kevin.metzdorf@icloud.com
 
 <!---
 Zagnar91/Zagnar91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
