@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kevin Metzdorf</h1>
 <h3 align="center">A passionate Java developer from Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=scriptscout&label=Profile%20views&color=b46f0e&style=flat" alt="scriptscout" /> </p>
-
 # 💫 About Me:
 🔭 I’m currently working on my Capstone Project.<br><br>🌱 I’m currently learning Java<br><br>👯 I’m looking to collaborate on Projects.<br><br>🤝 I’m looking for help with Java Development.<br><br>👨‍💻 All of my projects are available at https://github.com/ScriptScout<br><br>📫 How to reach me info@kevin-metzdorf.com<br><br>📄 Know about my experiences https://kevin-metzdorf.de<br><br>⚡ Fun fact I'm secretly Batman... but don't tell anyone!
 
