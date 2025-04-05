@@ -1,23 +1,45 @@
-👋 Hallo, ich bin Kevin Metzdorf, ein leidenschaftlicher Webentwickler aus Deutschland. 
+# 👋 Hi, ich bin Kevin – Frontend Developer & Shopify-Experte
 
-Ich liebe es, komplexe Herausforderungen in elegante und benutzerfreundliche Lösungen zu verwandeln. Mein Fokus liegt auf der Entwicklung von E-Commerce-Plattformen, die nicht nur funktional, sondern auch visuell ansprechend sind. Mit einem agilen Mindset und einem Auge für Details strebe ich danach, digitale Erlebnisse zu schaffen, die sowohl Kunden als auch Unternehmen begeistern.
+Seit 2019 entwickle ich individuelle Weblösungen mit Fokus auf sauberen Code, moderne Benutzeroberflächen und nachhaltige E-Commerce-Integrationen.
 
-Meine Expertise:
+Ich arbeite mit Unternehmen aus ganz Deutschland zusammen und unterstütze bei:
+- 🌐 Frontend-Entwicklung mit **HTML**, **CSS**, **JavaScript** & **TypeScript**
+- 🎨 **Theme-Entwicklung für Shopify** mit **Liquid** & CLI
+- 🔌 **API-Integration** & Schnittstellenanbindung
+- 📊 **Tracking-Setups** mit **Google Tag Manager**, **GA4** & **Klaviyo**
+- 📦 CMS- & Shop-Systeme: **Shopify**, **Shopware 5**, **WordPress**, **Wix**
 
-| Bereich            | Technologien                                                                                                                                          |
-| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Webentwicklung    | JavaScript (React.js, Angular, TypeScript), HTML, CSS, Java (Spring Boot), Python (aktuell im Lernprozess)                                            |
-| E-Commerce        | Shopify, Shopware 6, Wix, ePages, Ecwid                                                                                                              |
-| Datenbanken       | MongoDB, Erfahrung mit anderen Datenbanken                                                                                                           |
-| DevOps            | Docker, Git, Webserver-Konfiguration                                                                                                                   |
-| Methoden & Prinzipien | Testgetriebene Entwicklung (TDD), Agile Softwareentwicklung, Clean Code                                                                               |
+Mein Ansatz: clean, verständlich, strukturiert – mit echtem Mehrwert für meine Kunden.
 
-Ich lerne ständig dazu und erweitere meine Fähigkeiten! 🚀
+---
 
-📫 Du erreichst mich unter:
+## 🚀 Aktuelle Projekte & Schwerpunkte
+- Individuelle Shopify-Themes für Food-, Design- & Lifestyle-Brands  
+- Umstieg von Shopware 5 auf Shopify  
+- Beratung zu Tracking, DSGVO und Conversion-Optimierung
 
-*   E-Mail: info@kevin-metzdorf.com
-*   Website: https://kevin-metzdorf.de
-*   GitHub: https://github.com/ScriptScout
+---
 
-⚡ Fun Fact: Ich bin eigentlich Batman... aber pssst! 🤫
+## 🛠️ Mein Tech Stack
+
+**Frontend:**  
+`HTML` · `CSS` · `JavaScript` · `TypeScript` · `Liquid` · `Angular (projektbasiert)`
+
+**Systeme & Tools:**  
+`Shopify` · `Shopware 5` · `WordPress` · `Xentral` · `JTL Wawi` · `Klaviyo` · `GTM` · `GA4` · `Looker Studio`
+
+**Dev Tools:**  
+`WebStorm` · `GitHub` · `Shopify CLI` · `Jira` · `VS Code`
+
+---
+
+## 📫 Kontakt
+
+Du möchtest ein Projekt umsetzen oder brauchst Unterstützung bei einem bestehenden System?  
+**→ [Website](https://kevin-metzdorf.com)**  
+**→ E-Mail:** info@kevin-metzdorf.com  
+**→ LinkedIn:** [linkedin.com/in/kevin-metzdorf](https://linkedin.com/in/kevin-metzdorf)
+
+---
+
+> *"Guter Code ist nichts ohne ein gutes Verständnis für den Nutzer."*
