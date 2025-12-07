@@ -1,4 +1,4 @@
-# 👋 Hi, ich bin Kevin – Frontend Developer & Shopify-Experte
+# 👋 Hi, ich bin Kevin Metzdorf – Frontend Developer & Shopify-Experte
 
 Seit 2019 entwickle ich individuelle Weblösungen mit Fokus auf sauberen Code, moderne Benutzeroberflächen und nachhaltige E-Commerce-Integrationen.
 
