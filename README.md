@@ -1,45 +1,46 @@
-# 👋 Hi, ich bin Kevin Metzdorf – Frontend Developer & Shopify-Experte
+# Kevin Metzdorf
 
-Seit 2019 entwickle ich individuelle Weblösungen mit Fokus auf sauberen Code, moderne Benutzeroberflächen und nachhaltige E-Commerce-Integrationen.
+Shopify Developer. Seit 6+ Jahren.
 
-Ich arbeite mit Unternehmen aus ganz Deutschland zusammen und unterstütze bei:
-- 🌐 Frontend-Entwicklung mit **HTML**, **CSS**, **JavaScript** & **TypeScript**
-- 🎨 **Theme-Entwicklung für Shopify** mit **Liquid** & CLI
-- 🔌 **API-Integration** & Schnittstellenanbindung
-- 📊 **Tracking-Setups** mit **Google Tag Manager**, **GA4** & **Klaviyo**
-- 📦 CMS- & Shop-Systeme: **Shopify**, **Shopware 5**, **WordPress**, **Wix**
+## Was ich mache
 
-Mein Ansatz: clean, verständlich, strukturiert – mit echtem Mehrwert für meine Kunden.
+Custom Development, Performance-Optimierung, Technical Rescue.
 
----
+Keine Standard-Setups. Keine Theme-Installation mit Apps. Nur Projekte, bei denen es technisch interessant wird.
 
-## 🚀 Aktuelle Projekte & Schwerpunkte
-- Individuelle Shopify-Themes für Food-, Design- & Lifestyle-Brands  
-- Umstieg von Shopware 5 auf Shopify  
-- Beratung zu Tracking, DSGVO und Conversion-Optimierung
+## Tech Stack
 
----
-
-## 🛠️ Mein Tech Stack
+**Shopify:**  
+`Liquid` · `Shopify Theme Development` · `Shopify Plus` · `Metaobjects` · `Checkout Extensibility` · `Shopify CLI`
 
 **Frontend:**  
-`HTML` · `CSS` · `JavaScript` · `TypeScript` · `Liquid` · `Angular (projektbasiert)`
+`JavaScript (ES6+)` · `TypeScript` · `HTML5` · `CSS/SCSS` · `Tailwind`
 
-**Systeme & Tools:**  
-`Shopify` · `Shopware 5` · `WordPress` · `Xentral` · `JTL Wawi` · `Klaviyo` · `GTM` · `GA4` · `Looker Studio`
+**Tracking & Analytics:**  
+`GA4` · `Google Tag Manager` · `Klaviyo`
 
-**Dev Tools:**  
-`WebStorm` · `GitHub` · `Shopify CLI` · `Jira` · `VS Code`
+**Tools:**  
+`Git/GitHub` · `WebStorm` · `Jira` · `Lighthouse` · `Figma`
+
+## Für wen ich arbeite
+
+Brands und Agenturen, die technische Tiefe brauchen.
+
+Aktuell: Platinum Partner Agencies (Top 1% DACH), Enterprise-Kunden, skalierende D2C-Brands.
+
+## Aktuelle Projekte
+
+- 7 Shopify-Shops parallel (Multi-Store-Management)
+- Custom Konfiguratoren mit komplexen Preislogiken
+- Theme-Refactoring für Performance (8s → 2s Load Time)
+- Technical Rescue bei kritischen Kundenprojekten
+
+## Kontakt
+
+**Web:** [kevin-metzdorf.com](https://kevin-metzdorf.com)  
+**Mail:** info@kevin-metzdorf.com  
+**LinkedIn:** [linkedin.com/in/kevin-metzdorf](https://linkedin.com/in/kevin-metzdorf)
 
 ---
 
-## 📫 Kontakt
-
-Du möchtest ein Projekt umsetzen oder brauchst Unterstützung bei einem bestehenden System?  
-**→ [Website](https://kevin-metzdorf.com)**  
-**→ E-Mail:** info@kevin-metzdorf.com  
-**→ LinkedIn:** [linkedin.com/in/kevin-metzdorf](https://linkedin.com/in/kevin-metzdorf)
-
----
-
-> *"Guter Code ist nichts ohne ein gutes Verständnis für den Nutzer."*
+Ideal für Projekte **ab 3.500 EUR**, bei denen technische Tiefe, sauberer Code und nachhaltige Lösungen gefragt sind.
